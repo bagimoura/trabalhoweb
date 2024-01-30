@@ -1,0 +1,13 @@
+body{
+    background-color: #422d53;
+}
+
+a{
+    color: white;
+}
+
+#align{
+    width: 700px; 
+    margin-left: auto;
+    margin-right: auto; 
+}
